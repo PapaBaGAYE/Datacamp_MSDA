@@ -56,4 +56,3 @@ def extract_mongodb(server_name)->None:
         
     
     
-    
